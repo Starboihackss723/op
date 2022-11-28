@@ -32,11 +32,11 @@ OWNER_ID = list(
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/Starboihacks723/ShizukaXmusic",
+    "https://github.com/Starboihack723/ShizukaXmusic",
 )
-UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
+UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 
-GIT_TOKEN = getenv("GIT_TOKEN", "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")
+GIT_TOKEN = getenv("GIT_TOKEN", "none")
 
 SUPPORT_CHANNEL = getenv(
     "SUPPORT_CHANNEL", "https://t.me/star_X_network")
@@ -81,7 +81,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(
 )
 # https://www.gbmb.org/mb-to-bytes
 
-STRING1 = getenv("STRING_SESSION", "BQAkAclRes-b8pz2P1VPT39nS_pW5SMbArxCwAKYVsL20j4pGPMHH2a9cj5-OEvgLmRZSHNFoOWBHYAeAX_ST2wfP6i7mmIJhybjNDxa5ZgzaP2zqmRGmhzHhKXHBUllDFAQFH_PNLpo765Rp7nzaj4w3yZ6SLZvrtnZoO3v7Z_vW91jzljIXFMY_YEkWo_6sfn77IhSjHhWbpzLuvsAEeSmL0Z07KJyuvuimyMc7pQqx78Sz1w844pITLFwyOExcqF65sjyWV-Kh9lwdwQgKF-z9xB4LwqIc3MjsK3Hr4XCr5Gdsttms40O3bIdyqE2htylb8EJ7x1-O2XZOR7C8WafAAAAAUryi9sA")
+STRING1 = getenv("STRING_SESSION", "BQCSSvlQ5diQwYsfjZ1itkCQ5WUp-stxGVWuP-02SnWHqwxXI0Pqpz3MgL9_OzrUG9_4_ceI99vKr87416dnyIC5U2qlEwHPjuJ4ZZNko4qbs402oYIBkGw3xJUbK2JJO8fyMxhfu7YGvFxquMSfDlxOUp-NAfmYGRfOOc1VzTVKeaR2FfjU7GN6Wfh1neR5QZD529XtNpwg5-ztR1H-Rene_nOrTJx2yvz8vPTUHpmYOmGvu9B_KGIRIM8T2sfIfT5_x63bioV377_6wreJJTkedfIM_Gu0CeL63kuiprwVcPHaiC3qA0YZZpq6ZLrd129f2MeJn5lrxpSrmS32voTHAAAAAUryi9sA")
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
