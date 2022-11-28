@@ -24,4 +24,4 @@ numpy
 youtube-search
 youtube-search-python
 yt-dlp
-nodejs==15.0.0
+node-js==15.0.0
